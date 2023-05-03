@@ -10,4 +10,5 @@ class ColorItems {
   static const Color lila = Color(0xffF0E7F1);
   static const Color whiteRock = Color(0xffEBEBD3);
   static const Color cabaret = Color(0xffDA4167);
+  static const Color black = Colors.black;
 }
