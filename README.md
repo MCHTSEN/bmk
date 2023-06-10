@@ -1,5 +1,5 @@
-# bmk
-  <h1>TR: Kurye yönetim platformu | EN: Courier managment platform</h1>
+
+  <h2>TR: Kurye yönetim platformu | EN: Courier managment platform</h2>
 <img src="https://github.com/MCHTSEN/bmk/assets/77075747/d86eae25-438e-44c6-9f01-2a800aea4fc5" alt="alt text" width="250" height="550">
 <img src="https://github.com/MCHTSEN/bmk/assets/77075747/ebd2b0ba-a5fe-44fc-ad0b-267cb275d490" alt="alt text" width="250" height="550">
 <img src="https://github.com/MCHTSEN/bmk/assets/77075747/95ebe44c-c343-476c-ab2b-2fe139827ff9" alt="alt text" width="250" height="550">
