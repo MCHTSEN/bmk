@@ -23,7 +23,7 @@
   <li>İş filtreleme</li>
 </ul>
 
-<h2>ENFeatures</h2>
+<h2>EN:Features</h2>
 <ul>
   <li>Call for a courier</li>
   <li>Search for Courier Centers/Clinics/Laboratories</li>
